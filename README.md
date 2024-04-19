@@ -2,4 +2,4 @@
 
 under development...💻
 
-LIVE DEMO:- 👉 https://himanshukumar77.github.io/Anime-Image-Gallery/
+LIVE DEMO:- 👉 https://harry7705.github.io/Anime-Image-Gallery/
